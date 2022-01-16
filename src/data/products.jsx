@@ -1,5 +1,5 @@
 
-{
+export const products = {
     "data": [
         {
             "index": 0,
